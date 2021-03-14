@@ -4,3 +4,5 @@ print (list)
 a = 10
 b = 20
 print(a+b)
+t = (1,4,5,7)
+print(t)
